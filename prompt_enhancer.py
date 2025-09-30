@@ -1,6 +1,6 @@
 
 import streamlit as st
-st.set_page_config(page_title="Prompt Enhancer", page_icon="📝")
+st.set_page_config(page_title="Prompt Enhancers", page_icon="📝")
 st.title("📝 Prompt Engineer — General Prompt Enhancer")
 st.caption("Demo Mode - Learn how to structure better prompts!")
 
